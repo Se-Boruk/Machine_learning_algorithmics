@@ -1,4 +1,4 @@
-﻿# Semester_1:
+# Semester_1:
 # Machine_learning_algorithmics
 
 **License:** Apache 2.0  
@@ -8,7 +8,7 @@
 
 ##  Description
 
-This repo contains my tasks from machine learning algorithmics subject. 
+This repo contains my tasks from **machine learning algorithmics** subject. 
 
 All files contain at least jupyter notebook to launch, with some of them having also .py file.
 
@@ -17,6 +17,7 @@ All files contain at least jupyter notebook to launch, with some of them having 
 - matplotlib
 - pandas
 - scipy
+- scikit learn
 - jupyter notebook
 
 
