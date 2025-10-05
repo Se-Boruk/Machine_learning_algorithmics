@@ -1,5 +1,5 @@
-# Semester_1:
-# Machine_learning_algorithmics
+# Master studies:
+# Machine_learning_algorithmics 2025
 
 **License:** Apache 2.0  
 **Author:** Sebastian Borukało  
